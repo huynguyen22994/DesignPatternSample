@@ -1,1 +1,3 @@
-# DesignPatternSample
+# SOLID
+
+# Design Pattern
